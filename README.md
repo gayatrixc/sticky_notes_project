@@ -25,7 +25,11 @@ A sleek, responsive sticky notes web application built using **React** and **Tai
 ## 🌐 Deployment
 Deployed using Vercel for seamless CI/CD.
 
+## 🙋‍♀️ Author
 
+**Gayatri**  
+🔗 [LinkedIn](https://www.linkedin.com/in/gayatri-xc/)   
+📍 Hyderabad, Telangana, India
 
 ## 💻 How to Run Locally
 
@@ -41,9 +45,6 @@ npm install
 
 # Start the development server
 npm run dev
-
-## 🌐 Deployment
-Deployed using Vercel for seamless CI/CD. Every push to the main branch auto-deploys.
 
 
 
